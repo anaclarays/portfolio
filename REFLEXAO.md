@@ -1,4 +1,4 @@
-# 🧠 Reflexão sobre o uso de Git e GitHub
+# 🧠 Reflexão sobre o exercício
 
 ## O que foi difícil
 
