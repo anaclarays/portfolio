@@ -1,1 +1,1 @@
-print("Este arquivo é apenas para exemplificar o conflito de branches.")
+print("esta branch é para gerar um conflito")
