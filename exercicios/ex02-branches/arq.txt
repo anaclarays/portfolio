@@ -1,1 +1,1 @@
-segunda linha do arq.txt
+primeira linha do arq.txt
