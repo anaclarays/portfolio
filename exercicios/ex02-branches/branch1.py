@@ -1,0 +1,1 @@
+print("Este arquivo é apenas para exemplificar o conflito de branches.")
